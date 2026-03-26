@@ -1,2 +1,2 @@
-import ig_main
-ig_main.main() # এখানে main এর জায়গায় আপনার আসল ফাংশনের নাম দিন
+import ig85
+ig85.main() # এখানে main এর জায়গায় আপনার আসল ফাংশনের নাম দিন
